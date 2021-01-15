@@ -1,4 +1,4 @@
-### Hi there I'm # Theodore 👋
+### Hi there,meet me Theodore 👋
 
 
 
