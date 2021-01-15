@@ -1,4 +1,4 @@
-### Hi there I'm <b>Theodore<\b> 👋
+### Hi there I'm # Theodore 👋
 
 
 
