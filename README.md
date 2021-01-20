@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with an Operating System designer
 - 💬 Ask me about anything
 - 📫 How to reach me: [Email](mailto:ngulefacfolefac@gmail.com)
-- 😄 Pronouns: Sr
+- 😄 Pronouns: Sr/Mr
 - ⚡ Fun fact: My perfect day would start with prayers and coding and end with coding & prayers
 
 <hr>
