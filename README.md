@@ -1,6 +1,6 @@
 ### Hi there,its Theodore 👋
-
-Here are some ideas to get you started:
+    Be my guess
+        Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Python project
 - 🌱 I’m currently learning Django
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: My perfect day would start with prayers & coding and end with coding & prayers
 Never under-estimate a kid who is time free and cash poor.
 Thank you for visiting my profile.
-Be my guess
+
 
