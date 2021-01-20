@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on tech relations
 - 🤔 I’m looking for help with an Operating System designer
 - 💬 Ask me about anything
-- 📫 How to reach me: [![Email]](mailto:ngulefacfolefac@gmail.com)
+- 📫 How to reach me: [Email](mailto:ngulefacfolefac@gmail.com)
 - 😄 Pronouns: Sr
 - ⚡ Fun fact: My perfect day would start with prayers and coding and end with coding & prayers
 
