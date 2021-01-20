@@ -1,4 +1,4 @@
-## <jumbotron> Hi there,its Theodore  👋 </jumbotron>
+# Hi there,its Theodore  👋 
 * Be my guess
 * Here are some ideas to get you started:
 
