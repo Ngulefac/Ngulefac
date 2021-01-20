@@ -1,7 +1,7 @@
 ### Hi there,its Theodore 👋
 * Be my guess
 * Here are some ideas to get you started:
-
+<hr>
 - 🔭 I’m currently working on a Python project
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on :-)
