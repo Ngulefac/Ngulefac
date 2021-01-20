@@ -3,7 +3,7 @@
 * Here are some ideas to get you started:
 
 <hr>
-
+<b>
 - 🔭 I’m currently working on a Python project
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on tech relations
@@ -12,7 +12,7 @@
 - 📫 How to reach me: [Email](mailto:ngulefacfolefac@gmail.com)
 - 😄 Pronouns: Sr/Mr
 - ⚡ Fun fact: My perfect day would start with prayers and coding and end with coding & prayers
-
+</b>
 <hr>
 
 ![Visits](https://komarev.com/ghpvc/?username=Ngulefac)
