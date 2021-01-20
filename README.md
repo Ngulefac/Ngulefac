@@ -15,8 +15,8 @@
 <br>
 ```
  #### Profile Visits 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Ngulefac)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ngulefac&show_icons=true&count_private=true)
 
 ![](https://komarev.com/ghpvc/?username=Ngulefac)
 
