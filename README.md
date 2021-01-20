@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a Python project
 - 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on :-)
+- 👯 I’m looking to collaborate on tech relations
 - 🤔 I’m looking for help with an Operating System designer
 - 💬 Ask me about anything
 - 📫 How to reach me: 
