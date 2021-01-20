@@ -1,6 +1,6 @@
 ### Hi there,its Theodore 👋
-    Be my guess
-        Here are some ideas to get you started:
+* Be my guess
+* Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Python project
 - 🌱 I’m currently learning Django
