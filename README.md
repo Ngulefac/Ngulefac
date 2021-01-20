@@ -11,6 +11,7 @@
 - 😄 Pronouns: Sr
 - ⚡ Fun fact: My perfect day would start with prayers and coding and end with coding & prayers
 <hr>
+
 ![Visits](https://komarev.com/ghpvc/?username=Ngulefac)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ngulefac)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ngulefac&show_icons=true&count_private=true)
