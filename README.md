@@ -16,13 +16,13 @@
 ```
  #### Profile Visits 
  
+![](https://komarev.com/ghpvc/?username=Ngulefac)
+
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ngulefac&show_icons=true&count_private=true)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ngulefac)
-
-
-![](https://komarev.com/ghpvc/?username=Ngulefac)
 
 
 ```
