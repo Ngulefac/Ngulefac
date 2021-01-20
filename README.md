@@ -1,4 +1,4 @@
-### Hi there,its Theodore 👋
+### <jumbotron> Hi there,its Theodore  👋 </jumbotron>
 * Be my guess
 * Here are some ideas to get you started:
 
@@ -12,7 +12,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: [Email](mailto:ngulefacfolefac@gmail.com)
 - 😄 Pronouns: Sr/Mr
-- ⚡ Fun fact: My perfect day would start with prayers and coding and end with coding & prayers
+- ⚡ Fun fact: <i> My perfect day would start with prayers and coding and end with coding & prayers </i>
 
 </b>
 <hr>
