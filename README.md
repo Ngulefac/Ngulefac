@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on :-)
 - 🤔 I’m looking for help with an Operating System designer
 - 💬 Ask me about anything
-- 📫 How to reach me:  mailto:[[email](mailto:ngulefacfolefac@gmail.com?subject=[GitHub] 
+- 📫 How to reach me:  [email](mailto:ngulefacfolefac@gmail.com?subject=[GitHub]
 - 😄 Pronouns: Sr
 - ⚡ Fun fact: My perfect day would start with prayers & coding and end with coding & prayers
 Never under-estimate a kid who is time free and cash poor.
