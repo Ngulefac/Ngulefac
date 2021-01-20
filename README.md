@@ -11,6 +11,15 @@
 - 📫 How to reach me:  [email](mailto:ngulefacfolefac@gmail.com?
 - 😄 Pronouns: Sr
 - ⚡ Fun fact: My perfect day would start with prayers & coding and end with coding & prayers
+<hr>
+<br>
+```
+
+ #### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Ngulefac)
+
+```
 Never under-estimate a kid who is time free and cash poor.
 Thank you for visiting my profile.
 
