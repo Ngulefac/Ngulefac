@@ -1,4 +1,4 @@
-### Hi there, its me, Theodore  👋 How are you doing?
+### Hi there, its me, Theodore  👋 How are you doing? https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif
  <mark>* Be my guess * Here are some ideas to get you started:</mark>
 
 <hr>
