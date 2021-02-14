@@ -2,15 +2,15 @@
  <mark>* Be my guest * Here are some ideas to get you started:</mark>
 
 <hr>
-<p>
-- 🔭 I’m currently working on a Python project,
-- 🌱 I’m currently learning Django,
-- 👯 I’m looking to collaborate on tech relations,
-- 🤔 I’m looking for help with an Operating System designer, and
-- 💬 Ask me about anything,
-- 📫 How to reach me: [Email](mailto:ngulefacfolefac@gmail.com),
-- 😄 Pronouns: Sr/Mr,
-- ⚡ Fun fact: My perfect day would start with prayers and coding and end with coding & prayers.
+<p style{background-color: grey;}>
+- 🔭 I’m currently working on a Python project,<br>
+- 🌱 I’m currently learning Django,<br>
+- 👯 I’m looking to collaborate on tech relations,<br>
+- 🤔 I’m looking for help with an Operating System designer, and <br>
+- 💬 Ask me about anything,<br>
+- 📫 How to reach me: [Email](mailto:ngulefacfolefac@gmail.com), <br>
+- 😄 Pronouns: Sr/Mr,<br>
+- ⚡ Fun fact: My perfect day would start with prayers and coding and end with coding & prayers.<br>
 </p>
 <hr>
 
