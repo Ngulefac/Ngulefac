@@ -16,11 +16,9 @@
 ![Visits](https://komarev.com/ghpvc/?username=Ngulefac)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ngulefac)
 <br>
-<p align="left">
-<a href="https://github.com/Ngulefac"><img title="SWIFTechnologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngulefac&layout=compact"></a>
-</p>
-<p align="right"><a href="https://github.com/Ngulefac"><img title="SWIFTechnologies" src="https://github-readme-stats.vercel.app/api?username=Ngulefac&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
-</p>
+<a align="left" href="https://github.com/Ngulefac"><img title="SWIFTechnologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngulefac&layout=compact"></a>
+<a align="right" href="https://github.com/Ngulefac"><img title="SWIFTechnologies" src="https://github-readme-stats.vercel.app/api?username=Ngulefac&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+
 
 
 Never under-estimate a kid who is time free and cash poor.
