@@ -19,7 +19,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ngulefac)
 </center>
 <br>
-![Ngulefac's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngulefac&show_icons=true&theme=dark)
+![Ngulefac's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 
 Never under-estimate a kid who is time free and cash poor.
