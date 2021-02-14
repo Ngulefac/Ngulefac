@@ -19,7 +19,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ngulefac)
 </center>
 <br>
-![Github stats](https://github-readme-stats.vercel.app/api?username=Ngulefac&show_icons=true&theme=tokyonight)
+![Ngulefac's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngulefac&show_icons=true&theme=dark)
+
 
 Never under-estimate a kid who is time free and cash poor.
 Thank you for visiting my profile.
