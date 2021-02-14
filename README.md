@@ -15,8 +15,8 @@
 <hr>
 
 ![Visits](https://komarev.com/ghpvc/?username=Ngulefac)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Ngulefac)
-![Github stats](https://github-readme-stats.vercel.app/api?username=Ngulefac&show_icons=true&theme=gruvbox&count_private=true)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Ngulefac)<br>
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ngulefac&show_icons=true&theme=black&count_private=true)
 
 Never under-estimate a kid who is time free and cash poor.
 Thank you for visiting my profile.
