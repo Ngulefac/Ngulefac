@@ -1,4 +1,4 @@
-### Hi there, its me, Theodore  <img src="hand">  How are you doing? 
+### Hi there, its me, Theodore  <img src="hand.gif">  How are you doing? 
  <mark>* Be my guest * Here are some ideas to get you started:</mark>
 
 <hr>
