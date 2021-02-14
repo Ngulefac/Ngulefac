@@ -13,7 +13,7 @@
 - ⚡ Fun fact: My perfect day would start with prayers and coding and end with coding & prayers.
 
 <hr>
-
+  
 ![Visits](https://komarev.com/ghpvc/?username=Ngulefac)
 
 
