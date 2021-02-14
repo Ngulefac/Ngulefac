@@ -19,9 +19,18 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ngulefac)
 </center>
 <br>
+```
 https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
-
+```
+```
+![Github stats](https://github-readme-stats.vercel.app/api?username=itzomen&theme=vue&show_icons=true&count_private=true)
+```
+```
+![A's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+```
+```
+(https://github-readme-stats.vercel.app/api?username=Ngulefa&theme=vue&show_icons=true&count_private=true)
+```
 Never under-estimate a kid who is time free and cash poor.
 Thank you for visiting my profile.
 
