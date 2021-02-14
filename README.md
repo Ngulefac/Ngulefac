@@ -2,7 +2,7 @@
  <mark>* Be my guess * Here are some ideas to get you started:</mark>
 
 <hr>
-
+   
 - 🔭 I’m currently working on a Python project,
 - 🌱 I’m currently learning Django,
 - 👯 I’m looking to collaborate on tech relations,
