@@ -1,12 +1,8 @@
-<body >
- <style>
-  body{background-color: grey;
-  </style>
  ### Hi there, its me, Theodore  <img width=30px height=30px src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif">  How are you doing? 
  <mark>* Be my guest * Here are some ideas to get you started:</mark>
 
 <hr>
-
+<p>
 - 🔭 I’m currently working on a Python project,
 - 🌱 I’m currently learning Django,
 - 👯 I’m looking to collaborate on tech relations,
@@ -15,7 +11,7 @@
 - 📫 How to reach me: [Email](mailto:ngulefacfolefac@gmail.com),
 - 😄 Pronouns: Sr/Mr,
 - ⚡ Fun fact: My perfect day would start with prayers and coding and end with coding & prayers.
-
+</p>
 <hr>
 
 ![Visits](https://komarev.com/ghpvc/?username=Ngulefac)
@@ -29,6 +25,3 @@
 Never under-estimate a kid who is time free and cash poor.
 Thank you for visiting my profile.
 
-
-
-</body>
