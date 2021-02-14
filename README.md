@@ -13,10 +13,13 @@
 - ⚡ Fun fact: My perfect day would start with prayers and coding and end with coding & prayers.
 
 <hr>
-
+<center>
+ 
 ![Visits](https://komarev.com/ghpvc/?username=Ngulefac)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Ngulefac)<br>
-![Github stats](https://github-readme-stats.vercel.app/api?username=Ngulefac&show_icons=true&theme=black&count_private=true)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Ngulefac)
+</center>
+<br>
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ngulefac&show_icons=true&theme=dark&count_private=true)
 
 Never under-estimate a kid who is time free and cash poor.
 Thank you for visiting my profile.
