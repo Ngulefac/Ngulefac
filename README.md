@@ -20,9 +20,9 @@
 </center>
 <br>
 
+<p align="center"><a href="https://github.com/Ngulefac"><img title="SWIFTechnologies" src="https://github-readme-stats.vercel.app/api?username=Ngulefac&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
 
-  <img align="center" src="https://github-readme-stats.Ngulefac.vercel.app/api?username=Ngulefac&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ngulefac Github Stats" />
-  
 Never under-estimate a kid who is time free and cash poor.
 Thank you for visiting my profile.
 
