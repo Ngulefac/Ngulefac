@@ -2,7 +2,7 @@
  <mark>* Be my guest * Here are some ideas to get you started:</mark>
 
 <hr>
-<p style{background-color: grey;}>
+<p background-color="red">
 - 🔭 I’m currently working on a Python project,<br>
 - 🌱 I’m currently learning Django,<br>
 - 👯 I’m looking to collaborate on tech relations,<br>
