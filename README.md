@@ -23,12 +23,6 @@
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
   
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=material-palenight" />
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
-
 Never under-estimate a kid who is time free and cash poor.
 Thank you for visiting my profile.
 
