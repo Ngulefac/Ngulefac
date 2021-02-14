@@ -19,9 +19,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ngulefac)
 </center>
 <br>
-<a href="https://github.com/Ngulefac/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/Ngulefac/github-readme-stats?color=0088ff" />
-    </a>
+https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 
 Never under-estimate a kid who is time free and cash poor.
