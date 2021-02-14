@@ -1,6 +1,6 @@
  ### Hi there, its me, Theodore  <img width=30px height=30px src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif">  How are you doing? 
  <mark>* Be my guest * Here are some ideas to get you started:</mark> <br>
-<a align="center" width=1200px href="https://imgur.com/mOfKrox"><img src="https://i.imgur.com/mOfKrox.gif" title="SWIFTechnologies" /></a>
+<a align="center" href="https://imgur.com/mOfKrox"><img src="https://i.imgur.com/mOfKrox.gif" title="SWIFTechnologies" /></a>
 <hr>
 <p>
 - 🔭 I’m currently working on a Python project,<br>
@@ -20,7 +20,7 @@
 <a align="left" href="https://github.com/Ngulefac"><img title="SWIFTechnologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngulefac&theme=chartreuse-dark&layout=compact"></a>
 <a align="right" href="https://github.com/Ngulefac"><img title="SWIFTechnologies" src="https://github-readme-stats.vercel.app/api?username=Ngulefac&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 
-
+<a href="https://imgur.com/JgE4zdI"><img src="https://i.imgur.com/JgE4zdI.jpg" title="Code lover" /></a>
 
 Never under-estimate a kid who is time free and cash poor.
 Thank you for visiting my profile.
