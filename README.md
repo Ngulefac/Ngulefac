@@ -19,7 +19,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ngulefac)
 </center>
 <br>
-![Ngulefac's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Ngulefac's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngulefac&theme=vue&show_icons=true&count_private=true)
 
 
 
