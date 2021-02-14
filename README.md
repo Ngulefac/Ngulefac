@@ -1,6 +1,6 @@
  ### Hi there, its me, Theodore  <img width=30px height=30px src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif">  How are you doing? 
  <mark>* Be my guest * Here are some ideas to get you started:</mark> <br>
-<img width=100% align="center" src="anon.gif">
+<a href="https://imgur.com/mOfKrox"><img src="https://i.imgur.com/mOfKrox.gif" title="SWIFTechnologies" /></a>
 <hr>
 <p>
 - 🔭 I’m currently working on a Python project,<br>
