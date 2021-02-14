@@ -15,8 +15,8 @@
 <hr>
 
 ![Visits](https://komarev.com/ghpvc/?username=Ngulefac)
-
-
+![Ngulefac's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngulefac&show_icons=true&theme=radical)
+[![Ngulefac's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngulefac)](https://github.com/Ngulefac/github-readme-stats)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ngulefac)
 
 
