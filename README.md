@@ -3,7 +3,7 @@
  <table>
  <tr><a align="left" href="https://imgur.com/mOfKrox"><img src="https://i.imgur.com/mOfKrox.gif" title="SWIFTechnologies" /></a></tr>
  <tr><a align="right" href="https://imgur.com/FBlUSeO"><img src="https://i.imgur.com/FBlUSeO.png" title="SWIFTechnologies" /></a></tr>
- <tr><a align="right" href="https://imgur.com/aWIDmge"><img src="https://i.imgur.com/aWIDmge.jpg" title="SWIFTechnologies" /></a></tr>
+ <tr><a align="right" href="https://imgur.com/dPuUTJk"><img src="https://i.imgur.com/dPuUTJk.png" title="SWIFTechnologies" /></a></tr>
  </table>     
 <hr>
  <mark>Here are some ideas to get you started:</mark> <br>
