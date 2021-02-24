@@ -3,7 +3,7 @@
  <table>
  <tr>
 <a align="left" href="https://imgur.com/mOfKrox"><img src="https://i.imgur.com/mOfKrox.gif" title="SWIFTechnologies" /></a>
- </tr>
+ </tr><tr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </tr>
  <tr>
 <a align="right" href="https://imgur.com/FBlUSeO"><img src="https://i.imgur.com/FBlUSeO.png" title="SWIFTechnologies" /></a>
 </tr>
