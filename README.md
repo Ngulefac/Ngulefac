@@ -1,6 +1,9 @@
  ### Hi there, its me, Theodore  <img width=30px height=30px src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif">  How are you doing? 
  <mark>*Be my guest* </mark> <br>
  <table>
+ <style>
+  background-color: red;
+  </style>
  <tr>
 <a align="left" href="https://imgur.com/mOfKrox"><img src="https://i.imgur.com/mOfKrox.gif" title="SWIFTechnologies" /></a>
  </tr><tr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </tr>
