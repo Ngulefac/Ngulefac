@@ -3,21 +3,26 @@
  <table>
  <tr><a align="left"  hrefh="ttps://imgur.com/MtVDzJV.png"><img src="https://imgur.com/MtVDzJV.png" title="SWIFTechnologies1" /></a></tr>
  <tr><a align="right" href="https://i.imgur.com/1NwbXMB.png"><img src="https://i.imgur.com/1NwbXMB.png" title="SWIFTechnologies2" /></a></tr>
+ <tr>&nbsp;&nbsp;&nbsp;</tr>
  <tr><a align="center" href="https://imgur.com/ElTMbu4.png"><img src="https://imgur.com/ElTMbu4.png" title="SWIFTechnologies3" /></a></tr>
+ <tr>&nbsp;&nbsp;&nbsp;</tr>
  <tr><a align="center" href="https://i.imgur.com/FBlUSeO.png"><img src="https://i.imgur.com/FBlUSeO.png" title="SWIFTechnologies34" /></a></tr>
  </table>     
 <hr> 
  <mark>Here are some ideas to get you started:</mark> <br>
 <p>
-- 🔭 I’m currently working on a Python project,<br>
-- 🌱 I’m currently learning Django,<br>
-- 👯 I’m looking to collaborate on tech relations,<br>
-- 🤔 I’m looking for help with an Operating System designer, and <br>
-- 💬 Ask me about anything,<br>
-- 📫 How to reach me: [Email](mailto:ngulefacfolefac@gmail.com), <br>
-- 😄 Pronouns: Sr/Mr,<br>
-- ⚡ Fun fact: My perfect day would start with prayers and coding and end with coding & prayers.<br>
-</p>
+⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ 
+⭐️- 🔭 I’m currently working on a Python project,👩‍💻 🧑‍💻 👨‍💻 ⭐️<br>
+⭐️- 🌱 I’m currently learning Django,                              ⭐️ <br>
+⭐️- 👯 I’m looking to collaborate on tech relations,🦸 🦹          ⭐️ <br>
+⭐️- 🤔 I’m looking for help with an Operating System designer, and ⭐️<br>
+⭐️- 💬 Ask me about anything,                                      ⭐️<br> 
+⭐️- 📫 How to reach me: ngulefacfolefac@gmail.com                  ⭐️<br>
+⭐️- 😄 Pronouns: Sr/Mr,                                            ⭐️<br>
+⭐️- ⚡ Fun fact: My perfect day would start with prayers            ⭐️<br>
+⭐️     coding and end with coding & prayers.                       ⭐️<br>
+⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  ⭐️
+  </p>
 <hr>
 
 ![Visits](https://komarev.com/ghpvc/?username=Ngulefac)
