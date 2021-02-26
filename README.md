@@ -1,9 +1,9 @@
  ### Hi there, its me, Theodore  <img width=30px height=30px src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif">  How are you doing? 
  <mark>*Be my guest* </mark> <br>
  <table>
- <tr><a align="left" href="https://imgur.com/mOfKrox"><img src="https://i.imgur.com/mOfKrox.gif" title="SWIFTechnologies" /></a></tr>
- <tr><a align="right" href="https://imgur.com/FBlUSeO"><img src="https://i.imgur.com/FBlUSeO.png" title="SWIFTechnologies" /></a></tr>
- <tr><a align="right" href="https://imgur.com/dPuUTJk"><img src="https://i.imgur.com/dPuUTJk.png" title="SWIFTechnologies" /></a></tr>
+ <tr><a align="left"  href="#"><img src="https://imgur.com/MtVDzJV" title="SWIFTechnologies" /></a></tr>
+ <tr><a align="right" href="#"><img src="hhttps://imgur.com/1NwbXMB" title="SWIFTechnologies" /></a></tr>
+ <tr><a align="center" href="#"><img src="https://imgur.com/ElTMbu4" title="SWIFTechnologies" /></a></tr>
  </table>     
 <hr>
  <mark>Here are some ideas to get you started:</mark> <br>
