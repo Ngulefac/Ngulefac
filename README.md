@@ -36,5 +36,5 @@
 <a href="https://imgur.com/JgE4zdI"><img src="https://i.imgur.com/JgE4zdI.jpg" title="Code lover" /></a>
 -->
 
-```[+] Never under-estimate a kid who is time free and cash poor.```
-```[+] Thank you for visiting my profile.<br>```
+```[+] Never under-estimate a kid who is time free and cash poor.``` <br>
+```[+] Thank you for visiting my profile.``` <br>
