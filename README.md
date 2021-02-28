@@ -14,15 +14,15 @@
  <mark>Here are some ideas to get you started:</mark> <br>
 <p>
  <br>
-- <sub><sup>🔭 I’m currently working on a Python project,👩‍💻 🧑‍💻 👨‍💻</sup></sub> <br>
-- <sub><sup>🌱 I’m currently learning Django,📒 📕 📗 📘  </sup></sub><br>
-- <sub><sup>👯 I’m looking to collaborate on tech relations,🦸 🦹 </sup></sub><br>
-- <sub><sup>🤔 I’m looking for help with an Operating System designer💡🧗‍ </sup></sub><br>
-- <sub><sup>💬 Ask me about anything 🌀 🧘</sup></sub>🏼<br> 
-- <sub><sup>📫 How to reach me: ngulefacfolefac@gmail.com  🏠 🏡 🏘 ♂️🌍</sup></sub><br>
-- <sub><sup>😄 Pronouns: Sr 🦼🕴🏿 🧛🏼‍</sup></sub><br>
-- <sub><sup>⚡ Fun fact: My perfect day would start with prayers</sup></sub><br>
-     <sub><sup>coding and end with coding & prayers.🐶🐕 🐿✨</sup></sub><br>
+- 🔭 I’m currently working on a Python project,👩‍💻 🧑‍💻 👨‍💻 <br>
+- 🌱 I’m currently learning Django,📒 📕 📗 📘  <br>
+- 👯 I’m looking to collaborate on tech relations,🦸 🦹 <br>
+- 🤔 I’m looking for help with an Operating System designer💡🧗‍ <br>
+- 💬 Ask me about anything 🌀 🧘🏼<br> 
+- 📫 How to reach me: ngulefacfolefac@gmail.com  🏠 🏡 🏘 ♂️🌍<br>
+- 😄 Pronouns: Sr 🦼🕴🏿 🧛🏼‍<br>
+- ⚡ Fun fact: My perfect day would start with prayers<br>
+     coding and end with coding & prayers.🐶🐕 🐿✨<br>
  
   </p>
 <hr>
@@ -33,7 +33,7 @@
 <a align="left" href="https://github.com/Ngulefac"><img title="SWIFTechnologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngulefac&theme=chartreuse-dark&layout=compact"></a>
 <a align="right" href="https://github.com/Ngulefac"><img title="SWIFTechnologies" src="https://github-readme-stats.vercel.app/api?username=Ngulefac&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 <!--
-<a href="https://imgur.com/JgE4zdI"><img src="https://i.imgur.com/JgE4zdI.jpg" title="Code lover" /></a>
+<a href="https://imgur.com/JgE4zdI"><img src="https://i.imgur.com/JgE4zdI.jpg" title="Code lover" /></a> 
 -->
 
 ```[+] Never under-estimate a kid who is time free and cash poor.``` <br>
