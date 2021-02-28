@@ -13,17 +13,17 @@
 <hr> 
  <mark>Here are some ideas to get you started:</mark> <br>
 <p>
- ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️<br>
-⭐️- 🔭 I’m currently working on a Python project,👩‍💻 🧑‍💻 👨‍💻 ⭐️⭐️⭐️⭐️⭐️⭐️⭐️<br>
-⭐️- 🌱 I’m currently learning Django,📒 📕 📗 📘 ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ <br>
-⭐️- 👯 I’m looking to collaborate on tech relations,🦸 🦹⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ <br>
-⭐️- 🤔 I’m looking for help with an Operating System designer💡🧗‍ ⭐️⭐️<br>
-⭐️- 💬 Ask me about anything 🌀 🧘🏼⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️<br> 
-⭐️- 📫 How to reach me: ngulefacfolefac@gmail.com  🏠 🏡 🏘 ♂️🌍⭐️<br>
-⭐️- 😄 Pronouns: Sr 🦼🕴🏿 🧛🏼‍⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️<br>
-⭐️- ⚡ Fun fact: My perfect day would start with prayers⭐️⭐️⭐️⭐️⭐️<br>
-⭐️     coding and end with coding & prayers.🐶🐕 🐿✨⭐️⭐️⭐️⭐️⭐️⭐️<br>
- ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️
+ <br>
+- 🔭 I’m currently working on a Python project,👩‍💻 🧑‍💻 👨‍💻 <br>
+- 🌱 I’m currently learning Django,📒 📕 📗 📘  <br>
+- 👯 I’m looking to collaborate on tech relations,🦸 🦹 <br>
+- 🤔 I’m looking for help with an Operating System designer💡🧗‍ <br>
+- 💬 Ask me about anything 🌀 🧘🏼<br> 
+- 📫 How to reach me: ngulefacfolefac@gmail.com  🏠 🏡 🏘 ♂️🌍<br>
+- 😄 Pronouns: Sr 🦼🕴🏿 🧛🏼‍<br>
+- ⚡ Fun fact: My perfect day would start with prayers<br>
+     coding and end with coding & prayers.🐶🐕 🐿✨<br>
+ 
   </p>
 <hr>
 
