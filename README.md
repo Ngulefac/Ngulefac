@@ -46,7 +46,7 @@ If you have any comments or suggestions about my tools. All you have to do is to
 I value everyone's thoughts and opinions.
 
 If you like any of my tools, you are free to fork it or give it a star.<br>
-You might also want to follow me in github?
+You might also want to follow me in github?<br>
 ```[+] Never under-estimate a kid who is time free and cash poor.``` <br>
 ```[+] Thank you for visiting my profile.``` <br>
  
