@@ -26,12 +26,10 @@
  
   </p>
 <hr>
-### Quick Overview
-<!--
-![Followers](https://img.shields.io/github/followers/Ngulefac?label=Followers&style=for-the-badge&logo=github) 
-![Total Stars](https://img.shields.io/github/stars/Ngulefac?affiliations=OWNER&style=for-the-badge&logo=github)
---><br>
+# Quick Overview
 
+https://img.shields.io/github/stars/Ngulefac?affiliations=OWNER&style=for-the-badge&logo=github
+https://img.shields.io/github/followers/Ngulefac?label=Followers&style=for-the-badge&logo=github
 https://visitor-badge.glitch.me/badge?page_id=Ngulefac
 ![Visits](https://komarev.com/ghpvc/?username=Ngulefac)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ngulefac)
