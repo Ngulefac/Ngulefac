@@ -34,7 +34,10 @@ https://img.shields.io/github/followers/Ngulefac?label=Followers&style=for-the-b
 https://visitor-badge.glitch.me/badge?page_id=Ngulefac
 ![Visits](https://komarev.com/ghpvc/?username=Ngulefac)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ngulefac)
-| a  |  b | d  | e  | f  |
+
+| a  |  b | d  | e  | 
+|---|---|---|---|---|
+<br>
 <a align="left" href="https://github.com/Ngulefac"><img title="SWIFTechnologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngulefac&theme=chartreuse-dark&layout=compact"></a>
 <a align="right" href="https://github.com/Ngulefac"><img title="SWIFTechnologies" src="https://github-readme-stats.vercel.app/api?username=Ngulefac&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 <!--
