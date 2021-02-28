@@ -1,5 +1,9 @@
 ### Hi there, its me, Theodore  <img width=30px height=30px src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif">  How are you doing? 
  <mark>*Be my guest* </mark> <br>
+
+![Visits](https://komarev.com/ghpvc/?username=Ngulefac)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Ngulefac)
+
  <table>
  <tr><a align="left"  hrefh="ttps://imgur.com/MtVDzJV.png"><img src="https://imgur.com/MtVDzJV.png" title="SWIFTechnologies1" /></a></tr>
  <tr><a align="right" href="https://i.imgur.com/1NwbXMB.png"><img src="https://i.imgur.com/1NwbXMB.png" title="SWIFTechnologies2" /></a></tr>
@@ -27,9 +31,6 @@ to reach me: ngulefacfolefac@gmail.com  🏠 🏡 🏘 ♂️🌍<br>
      coding and end with coding & prayers.🐶🐕 🐿✨<br>
   </p>
 <hr>
-
-![Visits](https://komarev.com/ghpvc/?username=Ngulefac)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Ngulefac)
 
 <!--
 <a href="https://imgur.com/JgE4zdI"><img src="https://i.imgur.com/JgE4zdI.jpg" title="Code lover" /></a>
