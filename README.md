@@ -21,3 +21,17 @@
 - 💬 Ask me about anything 🌀 🧘🏼<br> 
 - 📫 How to reach me: ngulefacfolefac@gmail.com  🏠 🏡 🏘 ♂️🌍<br>
 - 😄 Prono
+to reach me: ngulefacfolefac@gmail.com  🏠 🏡 🏘 ♂️🌍<br>
+- 😄 Pronouns: Sr 🕴🏿 <br>
+- ⚡ Fun fact: My perfect day would start with prayers <br>
+     coding and end with coding & prayers.🐶🐕 🐿✨<br>
+  </p>
+<hr>
+
+![Visits](https://komarev.com/ghpvc/?username=Ngulefac)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Ngulefac)
+
+<!--
+<a href="https://imgur.com/JgE4zdI"><img src="https://i.imgur.com/JgE4zdI.jpg" title="Code lover" /></a>
+-->```[+] Never under-estimate a kid who is time free and cash poor.``` <br>
+```[+] Thank you for visiting my profile.``` <br>
