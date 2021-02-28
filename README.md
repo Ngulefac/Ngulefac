@@ -14,15 +14,15 @@
  <mark>Here are some ideas to get you started:</mark> <br>
 <p>
  <br>
-- 🔭 I’m currently working on a Python project,👩‍💻 🧑‍💻 👨‍💻 <br>
-- 🌱 I’m currently learning Django,📒 📕 📗 📘  <br>
-- 👯 I’m looking to collaborate on tech relations,🦸 🦹 <br>
-- 🤔 I’m looking for help with an Operating System designer💡🧗‍ <br>
-- 💬 Ask me about anything 🌀 🧘🏼<br> 
-- 📫 How to reach me: ngulefacfolefac@gmail.com  🏠 🏡 🏘 ♂️🌍<br>
-- 😄 Pronouns: Sr 🦼🕴🏿 🧛🏼‍<br>
-- ⚡ Fun fact: My perfect day would start with prayers<br>
-     coding and end with coding & prayers.🐶🐕 🐿✨<br>
+- <sub><sup>🔭 I’m currently working on a Python project,👩‍💻 🧑‍💻 👨‍💻</sup></sub> <br>
+- <sub><sup>🌱 I’m currently learning Django,📒 📕 📗 📘  </sup></sub><br>
+- <sub><sup>👯 I’m looking to collaborate on tech relations,🦸 🦹 </sup></sub><br>
+- <sub><sup>🤔 I’m looking for help with an Operating System designer💡🧗‍ </sup></sub><br>
+- <sub><sup>💬 Ask me about anything 🌀 🧘</sup></sub>🏼<br> 
+- <sub><sup>📫 How to reach me: ngulefacfolefac@gmail.com  🏠 🏡 🏘 ♂️🌍</sup></sub><br>
+- <sub><sup>😄 Pronouns: Sr 🦼🕴🏿 🧛🏼‍</sup></sub><br>
+- <sub><sup>⚡ Fun fact: My perfect day would start with prayers</sup></sub><br>
+     <sub><sup>coding and end with coding & prayers.🐶🐕 🐿✨</sup></sub><br>
  
   </p>
 <hr>
