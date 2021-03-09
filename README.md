@@ -41,10 +41,12 @@ My perfect day would start with prayers and coding and end with coding & prayers
 <a href="https://github.com/Ngulefac/github-readme-stats">
   <img align="right" width=49%  src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=chartreuse-dark" />
 </a>    
+<br><br><br><br><br><br><br>
 
-<br><br>
+<center>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ngulefac&show_icons=true&count_private=true&theme=chartreuse-dark)
-
+</center>
 
 
 ```[+] Never under-estimate a kid who is time free and cash poor.``` <br>
