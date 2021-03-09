@@ -28,9 +28,11 @@
 My perfect day would start with prayers and coding and end with coding & prayers. 
 -->
 <hr>
+<center>
 
 ![Visits](https://komarev.com/ghpvc/?username=Ngulefac) ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ngulefac)
 
+</center>
 
 ```[+] Never under-estimate a kid who is time free and cash poor.``` <br>
 ```[+] Thank you for visiting my profile.``` <br>
