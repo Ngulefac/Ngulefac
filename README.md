@@ -33,6 +33,8 @@ to reach me: ngulefacfolefac@gmail.com  🏠 🏡 🏘 ♂️🌍<br>
   </p>
 <hr>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ngulefac&show_icons=true&count_private=true)
+<hr>
 ```[+] Never under-estimate a kid who is time free and cash poor.``` <br>
 ```[+] Thank you for visiting my profile.``` <br>
       ```````````````````````````````
