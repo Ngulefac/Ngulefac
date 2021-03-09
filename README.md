@@ -35,7 +35,7 @@ My perfect day would start with prayers and coding and end with coding & prayers
 </center>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngulefac&layout=compact&theme=chartreuse-dark" />
+  <img align="left" width=44% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngulefac&layout=compact&theme=chartreuse-dark" />
 </a>
   
 
