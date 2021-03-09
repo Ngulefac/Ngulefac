@@ -51,3 +51,8 @@ My perfect day would start with prayers and coding and end with coding & prayers
 ```[+] Thank you for visiting my profile.``` <br>
 
 <center>
+
+
+
+[![Mail Badge](https://img.shields.io/badge/-Ngulefac-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ngulefacfolefac@gmail.com) [
+    </center>
