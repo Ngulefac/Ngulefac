@@ -38,6 +38,11 @@ My perfect day would start with prayers and coding and end with coding & prayers
   <img align="left" width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngulefac&layout=compact&theme=chartreuse-dark" />
 </a>
   
+ <strong>: : : Think twice, Code once >_</strong>
+
+<a href="https://github.com/Ngulefac/github-readme-stats">
+  <img align="right" width=49% height=130px src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=chartreuse-dark" />
+
 ```[+] Never under-estimate a kid who is time free and cash poor.``` <br>
 ```[+] Thank you for visiting my profile.``` <br>
 
