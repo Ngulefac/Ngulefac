@@ -54,5 +54,5 @@ My perfect day would start with prayers and coding and end with coding & prayers
 
 
 
-[![Mail Badge](https://img.shields.io/badge/-Ngulefac-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ngulefacfolefac@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@Ngulefac-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/itz_omen)](https://twitter.com/NgulefacTheoph1)
+[![Mail Badge](https://img.shields.io/badge/-Ngulefac-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ngulefacfolefac@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@Ngulefac-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/itz_omen)](https://twitter.com/NgulefacTheoph1) [![Linkedin Badge](https://img.shields.io/badge/-Ngulefac-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngulefac-fobella-61707b1b8/)  
     </center>
