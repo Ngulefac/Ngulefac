@@ -2,6 +2,12 @@
  <b>*Be my guest* </b> <br>
 
 
+<center>
+
+![Visits](https://komarev.com/ghpvc/?username=Ngulefac) ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ngulefac) [![Mail Badge](https://img.shields.io/badge/-Ngulefac-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ngulefacfolefac@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@Ngulefac-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/itz_omen)](https://twitter.com/NgulefacTheoph1) [![Linkedin Badge](https://img.shields.io/badge/-Ngulefac-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngulefac-fobella-61707b1b8/)  [![Mail Badge](https://img.shields.io/badge/-@Ngulefac-405DE6?style=flat&labelColor=5851DB&logo=instagram&logoColor=white)](https://www.instagram.com/ngulefactheophilus/)
+    </center>
+
+    
 
  <table>
  <tr><a align="left"  hrefh="ttps://imgur.com/MtVDzJV.png"><img src="https://imgur.com/MtVDzJV.png" title="SWIFTechnologies1" /></a></tr>
@@ -28,11 +34,6 @@
 My perfect day would start with prayers and coding and end with coding & prayers. 
 -->
 <hr>
-<center>
-
-![Visits](https://komarev.com/ghpvc/?username=Ngulefac) ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ngulefac)
-
-</center>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngulefac&layout=compact&theme=chartreuse-dark" />
@@ -49,10 +50,3 @@ My perfect day would start with prayers and coding and end with coding & prayers
 
 ```[+] Never under-estimate a kid who is time free and cash poor.``` <br>
 ```[+] Thank you for visiting my profile.``` <br>
-
-<center>
-
-
-
-[![Mail Badge](https://img.shields.io/badge/-Ngulefac-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ngulefacfolefac@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@Ngulefac-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/itz_omen)](https://twitter.com/NgulefacTheoph1) [![Linkedin Badge](https://img.shields.io/badge/-Ngulefac-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngulefac-fobella-61707b1b8/)  [![Mail Badge](https://img.shields.io/badge/-@Ngulefac-405DE6?style=flat&labelColor=5851DB&logo=instagram&logoColor=white)](https://www.instagram.com/ngulefactheophilus/)
-    </center>
