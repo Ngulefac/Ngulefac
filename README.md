@@ -27,7 +27,7 @@
 - 👯 I’m looking to collaborate on tech relations,
 - 🤔 I’m looking for help with an Operating System designer, and
 - 💬 Ask me about anything,
-- 📫 How to reach me: Anonymous User,
+- 📫 How to reach me: ---- ,
 - 😄 Pronouns: Sr/Eng,
 - ⚡ Fun fact: Coding and programming is super interesting. It allows people to get together to build something unique, share ideas, innovate, solve problems, and learn new things every day.
 <!-- 
