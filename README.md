@@ -50,3 +50,6 @@ My perfect day would start with prayers and coding and end with coding & prayers
 
 ```[+] Never under-estimate a kid who is time free and cash poor.``` <br>
 ```[+] Thank you for visiting my profile.``` <br>
+## License 
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
