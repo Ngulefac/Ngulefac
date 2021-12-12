@@ -22,7 +22,7 @@
  </table>     
 
 <hr>
-  
+  <!-- 
 - 🔭 I’m currently working on a Pythton project (Botnet),
 - 🌱 I’m currently learning NodeJS,
 - 👯 I’m looking to collaborate on tech relations,
@@ -31,7 +31,7 @@
 - 📫 How to reach me: ---- ,
 - 😄 Pronouns: Sr/Eng,
 - ⚡ Fun fact: Coding and programming is super interesting. It allows people to get together to build something unique, share ideas, innovate, solve problems, and learn new things every day.
-<!-- 
+
 My perfect day would start with prayers and coding and end with coding & prayers. 
 -->
 <hr>
