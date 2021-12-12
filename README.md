@@ -21,7 +21,7 @@
  <tr><a align="center" href="https://i.imgur.com/dPuUTJk.png"><img src="https://i.imgur.com/dPuUTJk.png" title="SWIFTechnologies5" /></a></tr>
  </table>     
 
-<hr>
+<hr> 
   <!-- 
 - 🔭 I’m currently working on a Pythton project (Botnet),
 - 🌱 I’m currently learning NodeJS,
