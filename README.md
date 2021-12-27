@@ -58,4 +58,4 @@ My perfect day would start with prayers and coding and end with coding & prayers
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <br>
        
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxirfanx&theme=dark" alt="Ngulefac Theophilus" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxirfanx&theme=dark" alt="Ngulefac Theophilus" /></p> -->
